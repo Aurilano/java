@@ -14,7 +14,7 @@ public class OlaMundo {
 	public static void main(String[] args) {
 		
 		// Imprimir uma informação no console
-		System.out.println("Olá Mundo!!!");
+		System.out.println("Olá Mundo!");
 			
 	}
 
