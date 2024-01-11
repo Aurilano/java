@@ -16,9 +16,9 @@ public class ExpressoesAritimeticas {
 		
 		//resultado  = 30 == 3 * 10 && 50 < 15;
 		
-		//double resultado = Math.pow(2, 10);
+		double resultado = Math.pow(5, 2);
 		
-		//System.out.println(resultado);
+		System.out.println(resultado);
 		
 		System.out.println(Math.ceil(6.1)); // Arredonda pra cima
 		System.out.println(Math.floor(6.1)); // Arredonda pra baixo
