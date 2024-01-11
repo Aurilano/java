@@ -43,9 +43,12 @@ public class Vetores {
 		
 		System.out.println(pares.get(0));
 		
-		double a=14, b=5, c=a%b ;
+		
+		/*
+		 * double a=14, b=5, c=a%b ;
 		
 		System.out.println(c);
+		*/
 	}
 
 }
